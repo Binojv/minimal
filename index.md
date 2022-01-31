@@ -1,8 +1,6 @@
 ## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/Binojv/minimal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-# Machine Learning:
+# Machine Learning and Artificial Intelligence
 
 ![maclearn](https://user-images.githubusercontent.com/98651832/151851626-1ea4eae8-2d8e-490b-976b-8dcd86aa8e68.jpeg)
 
